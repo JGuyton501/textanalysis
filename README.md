@@ -1,1 +1,4 @@
-# Corpora text analysis fun! (sentiment analysis, tf-idf scores, etc!)
+### Corpora text analysis fun!
+- sentiment analysis
+- tf-idf scores
+- etc!
